@@ -1,7 +1,7 @@
 {
   "name": "scrum_guide",
   "version": "0.1.0",
-  "homepage": "https://github.com/tengannie/scrum_guide.git",
+  "homepage": "https://tengannie.github.io/scrum_guide/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
