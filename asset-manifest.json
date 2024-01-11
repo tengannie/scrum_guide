@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/scrum_guide/static/css/main.482aad1a.css",
-    "main.js": "/scrum_guide/static/js/main.110afa57.js",
+    "main.css": "/scrum_guide/static/css/main.4f8f6bda.css",
+    "main.js": "/scrum_guide/static/js/main.df3419fc.js",
     "static/js/787.07a831a3.chunk.js": "/scrum_guide/static/js/787.07a831a3.chunk.js",
+    "static/media/agile.jpg": "/scrum_guide/static/media/agile.003e5c133287a6619722.jpg",
     "index.html": "/scrum_guide/index.html",
-    "main.482aad1a.css.map": "/scrum_guide/static/css/main.482aad1a.css.map",
-    "main.110afa57.js.map": "/scrum_guide/static/js/main.110afa57.js.map",
+    "main.4f8f6bda.css.map": "/scrum_guide/static/css/main.4f8f6bda.css.map",
+    "main.df3419fc.js.map": "/scrum_guide/static/js/main.df3419fc.js.map",
     "787.07a831a3.chunk.js.map": "/scrum_guide/static/js/787.07a831a3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.482aad1a.css",
-    "static/js/main.110afa57.js"
+    "static/css/main.4f8f6bda.css",
+    "static/js/main.df3419fc.js"
   ]
 }
